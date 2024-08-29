@@ -92,7 +92,8 @@ ai_brain.predict(X_n1_1)
 ![Screenshot 2024-08-23 092904](https://github.com/user-attachments/assets/c17e2446-84f8-4624-a323-843de63aaa3e)
 
 ## Training Loss Vs Iteration Plot
-![image](https://github.com/user-attachments/assets/ccb72680-7254-4ca2-b7bc-603e4591bcee)
+![image](https://github.com/user-attachments/assets/c913f9e5-46e1-49b7-a64c-348bf399fd66)
+
 ## Test Data Root Mean Squared Error
 ![image](https://github.com/user-attachments/assets/c8b6d8fe-de28-4579-86c1-5445434b5c30)
 ![image](https://github.com/user-attachments/assets/040d8eae-ce17-4d26-8f2c-9f9900a7e984)

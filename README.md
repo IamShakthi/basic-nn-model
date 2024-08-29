@@ -95,10 +95,11 @@ ai_brain.predict(X_n1_1)
 ![image](https://github.com/user-attachments/assets/c913f9e5-46e1-49b7-a64c-348bf399fd66)
 
 ## Test Data Root Mean Squared Error
-![image](https://github.com/user-attachments/assets/c8b6d8fe-de28-4579-86c1-5445434b5c30)
-![image](https://github.com/user-attachments/assets/040d8eae-ce17-4d26-8f2c-9f9900a7e984)
+![image](https://github.com/user-attachments/assets/3df6ee8f-a34e-409a-953e-7f06d9e2b5af)
+![image](https://github.com/user-attachments/assets/a369c87c-e06f-4854-9b7d-29dac6f9e674)
+
 ## New Sample Data Prediction
-![image](https://github.com/user-attachments/assets/d6a4dfb8-8ace-44e2-9248-2d07d0396160)
+![image](https://github.com/user-attachments/assets/064134a4-9ceb-4aa2-84fa-b28809a3041a)
 
 ## RESULT
 Thus a Neural network for Regression model is Implemented
